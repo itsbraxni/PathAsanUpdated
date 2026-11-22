@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pathasan_red">#E10616</color>
+    <color name="pathasan_black">#151515</color>
+    <color name="pathasan_white">#FFFFFF</color>
+    <color name="pathasan_light_gray">#F4F4F4</color>
+</resources>

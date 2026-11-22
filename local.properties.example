@@ -1,0 +1,4 @@
+# Copy this file to local.properties. Keep local.properties out of source control.
+# Android Studio normally adds sdk.dir automatically.
+sdk.dir=/path/to/your/Android/Sdk
+GEOAPIFY_API_KEY=replace_with_your_geoapify_key

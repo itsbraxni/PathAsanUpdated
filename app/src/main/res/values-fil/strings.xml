@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PathAsan</string>
+    <string name="tagline">Mas ligtas na pasya. Mas maliwanag na bukas.</string>
+    <string name="get_started">Magsimula</string>
+    <string name="log_in">Mag-log In</string>
+    <string name="sign_up">Mag-sign Up</string>
+    <string name="full_name">Buong pangalan</string>
+    <string name="email">Email address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Kumpirmahin ang password</string>
+    <string name="forgot_password">Nakalimutan ang password?</string>
+    <string name="home">Home</string>
+    <string name="routes">Mga Center</string>
+    <string name="offline">Offline</string>
+    <string name="alerts">Mga Alerto</string>
+    <string name="guide">Gabay</string>
+    <string name="settings">Mga Setting</string>
+    <string name="evacuation_routes">Mga Evacuation Center</string>
+    <string name="offline_maps">Mga Offline na Mapa</string>
+    <string name="disaster_alerts">Mga Alerto sa Sakuna</string>
+    <string name="emergency_guide">Gabay sa Emergency</string>
+    <string name="language">Wika</string>
+    <string name="notifications">Mga Notification</string>
+    <string name="logout">Mag-log Out</string>
+    <string name="demo_data">DEMO DATA</string>
+    <string name="back">Bumalik</string>
+    <string name="save">I-save</string>
+    <string name="cancel">Kanselahin</string>
+    <string name="location_permission_required">Kailangan ang pahintulot sa lokasyon upang ipakita ang aktwal mong posisyon.</string>
+</resources>
